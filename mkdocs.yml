@@ -1,7 +1,7 @@
-site_name: hiep
-site_description: hiep's blog
-site_url: https://vuhiepblog.github.io/
-site_author: hiep
+site_name: 2kaya
+site_description: 2kaya
+site_url: https://2kaya.github.io/
+site_author: 2kaya
 
 theme:
     name: material
