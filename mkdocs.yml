@@ -28,14 +28,14 @@ theme:
       - media: "(prefers-color-scheme: light)"
         scheme: default
         primary: pink
-        accent: amber
+        accent: pink
         toggle:
           icon: material/toggle-switch
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
         primary: amber
-        accent: pink
+        accent: amber
         toggle:
           icon: material/toggle-switch-off
           name: Switch to system preference
